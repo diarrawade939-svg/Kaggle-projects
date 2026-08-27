@@ -1,4 +1,4 @@
-# Credit Card Fraud Analysis (SQL + Python + Tableau)
+# Credit Card Fraud Analysis (SQL + Python )
 
 ## What problem did I solve?
 
@@ -9,7 +9,6 @@ A bank wanted to understand fraud patterns across its credit card transactions i
 - **Python** (pandas) for data loading and manipulation
 - **SQL** (via SQLite, queried through `sqlite3` + `pandas.read_sql`) for aggregation and grouped analysis — `COUNT`, `SUM`, `GROUP BY`, `ORDER BY`, and rate calculations
 - **Matplotlib / Seaborn** for exploratory visualizations (bar charts, line chart)
-- **Tableau** for the final interactive dashboard
 - Core skills: exploratory data analysis (EDA), SQL query writing, data visualization, and translating analytical findings into business recommendations
 
 ## How did I approach it?
@@ -22,7 +21,7 @@ A bank wanted to understand fraud patterns across its credit card transactions i
 
 ## Where is the code?
 
-The full analysis is in [`creditcardfraudanalysisusingsqlandtableau.ipynb`](./creditcardfraudanalysisusingsqlandtableau.ipynb) in this repository. The interactive Tableau dashboard is published here: **[https://public.tableau.com/views/TermDepositCross-SellAnalysis-DiarraWade/TermDeposistCross-SellAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**.
+The full analysis is in [https://github.com/diarrawade939-svg/Kaggle-projects/blob/main/credit-card-fraud-analysis-using-sql-and-tableau.ipynb`] in this repository.
 
 Dataset source: [Credit Card Fraud Detection 2026 (Kaggle)](https://www.kaggle.com/datasets/uditjain13/credit-card-fraud-detection-2026)
 
